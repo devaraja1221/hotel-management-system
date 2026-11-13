@@ -1,0 +1,23 @@
+
+{
+  "id": "1",
+  "title": "Grand Palace Hotel",
+  "description": "Luxury hotel with swimming pool and restaurant.",
+  "descriptionPoints": [
+    "Elegant rooms with modern interiors and comfortable furnishings.",
+    "Convenient location with easy access to nearby tourist attractions.",
+    "Excellent hospitality with a relaxing atmosphere for guests."
+  ],
+  "facilities": [
+    "Swimming Pool",
+    "Restaurant",
+    "Free Wi-Fi",
+    "Parking",
+    "Room Service",
+    "Air Conditioning"
+  ],
+  "price": 4500,
+  "latitude": 13.0827,
+  "longitude": 80.2707,
+  "image": "YOUR_EXISTING_HOTEL_IMAGE"
+}
